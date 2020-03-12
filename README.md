@@ -3,8 +3,7 @@
 kitti training data visiualization with [open3d](http://www.open3d.org/)
 
 ## Visualization
-
-![demo](./images/demo.png)
+<img src='./images/demo.png' width=600>
 
 
 ## Dataset preparation
