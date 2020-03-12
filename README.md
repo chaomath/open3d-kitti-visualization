@@ -2,6 +2,13 @@
 
 kitti training data visiualization with [open3d](http://www.open3d.org/)
 
+## Dependencies
+
+- python >=3.0
+- numpy
+- open3d
+
+
 ## Visualization
 <img src='./images/demo.png' width=600>
 
